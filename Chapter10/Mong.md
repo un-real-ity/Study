@@ -186,6 +186,10 @@
 > scene graph 계산(질문5)
 * 정적 레벨 기하 형상들을 가공해서 BSP 트리를 만드는 경우등의 계산을 할 수 있다.
 
+> 조명 계산
+* 시간이 많이 걸리는 조명 계산을 처리하는데 이 때 처리하는 조명을 "정적 조명"이라고 한다.
+* 정점에 대한 조명 색 계산/조명 정보를 저장하는 텍스처맵 만들기/PRT(질문6) 계수 계산
+
 # 질문들
 > 1.스플라인(Spline)
 * https://wonjayk.tistory.com/95
@@ -202,3 +206,6 @@
 * https://m.blog.naver.com/PostView.nhn?blogId=lifeisforu&logNo=80025686114&proxyReferer=https%3A%2F%2Fwww.google.com%2F
 * 뭥가 월드 공간 안에 있는 물체를 tree 형태로 나누고 묶어서 관리하는 것을 말하는 건가?
 * 고럼 BSP랑 다른 것이 무엇이지??
+> 6. PRT
+* https://m.blog.naver.com/PostView.nhn?blogId=sorkelf&logNo=40158230165&categoryNo=40&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+* 으음...
